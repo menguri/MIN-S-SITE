@@ -24,10 +24,10 @@ h1 {
 
 }
 .menu li{
-  float:right; display:inline;
+  display:inline;
 }
 .menu li a{
-  line-height:45px; padding:30 15px;
+  line-height:30px; padding:30 15px;
 }
 .menu2 {
   margin-right: 0;}
